@@ -1,0 +1,112 @@
+*{
+  margin:0px;
+  border:0px;
+}
+#page{
+  background-color:cadetblue;
+  height:50px;
+}
+#one{
+    font-style:oblique;
+    color: white;
+}
+    #buttonn{
+        background-color:coral;
+        color: white;
+        transform: translate(1200px,-25px);
+        height:30px;
+        width:75px;
+        border-radius: 10%;
+    
+    }
+    #image{
+        transform: translate(150px,100px);
+        font-size: 25px;
+        image-resolution: 50%;
+        
+    }
+    img{
+        transform: translate(650px,-200px);
+        height:245px;
+        width: 240px;
+    }
+    #star{
+        transform: translate(-65px,250px);
+    }
+    #star1{
+        transform: translate(55px,-130px);
+
+    }
+    #star2{
+        transform: translate(45px,-130px);
+    }
+    #star3{
+        transform: translate(35px,-130px);
+    }
+    #star4{
+        transform: translate(25px,-130px);
+    }
+    #star5{
+        transform: translate(15px,-130px);
+    }
+    #oran{
+        background-color: orangered;
+        color: white;
+        font-size:medium;
+        font-weight: 400;
+        width:380px;
+        height:40px;
+        transform: translate(-5px,-100px);
+        border-radius: 10%;
+        border-style: solid;
+    }
+    h6{
+        transform: translate(190px,-150px);
+    }
+    #pic{
+        height:600px;
+        background-image: url(pic.jpeg);
+    }
+    #down{
+        background-color:darkcyan;
+        height:130px;
+        color:white;
+        font-weight: 400;
+        font-size: medium;
+        
+    }
+    #last{
+        transform: translate(150px,-130px);
+    }
+    a{
+        margin-right: 165px;   
+    }
+    #two{
+        margin-left: 80px;
+    }
+    h4{
+        font-weight: 500;
+    }
+    #three{
+        font-family:sans-serif;
+    }
+    #four{
+        font-weight:700;
+    }
+    #five{
+        font-family:monospace ;
+        font-weight: bold;
+    }
+    #bw{
+background-color:bisque;
+color:black;
+font-weight: 700;
+    }
+    #seven{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+
+
+    
+    
